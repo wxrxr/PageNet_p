@@ -1,0 +1,9 @@
+[2023/03/17 22:14:43] root INFO: l: 
+[2023/03/17 22:14:43] root INFO: 	mean diff: check passed: True, value: 8.664456305207402e-12
+[2023/03/17 22:14:43] root INFO: o: 
+[2023/03/17 22:14:43] root INFO: 	mean diff: check passed: True, value: 7.713135019571382e-09
+[2023/03/17 22:14:43] root INFO: g: 
+[2023/03/17 22:14:43] root INFO: 	mean diff: check passed: True, value: 0.0
+[2023/03/17 22:14:43] root INFO: i: 
+[2023/03/17 22:14:43] root INFO: 	mean diff: check passed: True, value: 0.0
+[2023/03/17 22:14:43] root INFO: diff check passed
